@@ -1,0 +1,48 @@
+Manifest-Version: 1.0
+Bundle-Category: WKND SPA React
+Bundle-Description: Core bundle for WKND SPA React
+Bundle-ManifestVersion: 2
+Bundle-Name: WKND SPA React - Core
+Bundle-SymbolicName: aem-guides-wknd-spa.react.core
+Bundle-Version: 1.0.0.SNAPSHOT
+Export-Package: com.adobe.aem.guides.wkndspa.react.core.filters;versio
+ n="1.0";uses:="javax.servlet",com.adobe.aem.guides.wkndspa.react.core
+ .listeners;version="1.0";uses:="org.apache.sling.api.resource.observa
+ tion",com.adobe.aem.guides.wkndspa.react.core.models;version="1.0";us
+ es:="com.adobe.cq.export.json,javax.annotation,org.apache.sling.api,o
+ rg.apache.sling.api.resource,org.apache.sling.models.annotations,org.
+ apache.sling.models.annotations.injectorspecific",com.adobe.aem.guide
+ s.wkndspa.react.core.schedulers;version="1.0",com.adobe.aem.guides.wk
+ ndspa.react.core.servlets;version="1.0";uses:="javax.servlet,org.apac
+ he.sling.api,org.apache.sling.api.servlets"
+Import-Package: javax.annotation;version="0.0.0",com.adobe.aem.guides.
+ wkndspa.react.core.filters;version="[1.0,2)",com.adobe.aem.guides.wkn
+ dspa.react.core.listeners;version="[1.0,2)",com.adobe.aem.guides.wknd
+ spa.react.core.schedulers;version="[1.0,2)",com.adobe.aem.guides.wknd
+ spa.react.core.servlets;version="[1.0,2)",com.adobe.cq.export.json;ve
+ rsion="[2.0,3)",com.day.cq.wcm.api;version="[1.27,2)",javax.servlet;v
+ ersion="[3.1,4)",org.apache.sling.api;version="[2.3,3)",org.apache.sl
+ ing.api.request;version="[2.4,3)",org.apache.sling.api.resource;versi
+ on="[2.11,3)",org.apache.sling.api.resource.observation;version="[1.2
+ ,2)",org.apache.sling.api.servlets;version="[2.3,3)",org.apache.sling
+ .models.annotations;version="[1.5,2)",org.apache.sling.models.annotat
+ ions.injectorspecific;version="[1.1,2)",org.slf4j;version="[1.7,2)"
+Provide-Capability: osgi.service;objectClass:List<String>="java.lang.R
+ unnable",osgi.service;objectClass:List<String>="javax.servlet.Filter"
+ ;uses:="javax.servlet",osgi.service;objectClass:List<String>="javax.s
+ ervlet.Servlet";uses:="javax.servlet",osgi.service;objectClass:List<S
+ tring>="org.apache.sling.api.resource.observation.ResourceChangeListe
+ ner";uses:="org.apache.sling.api.resource.observation"
+Require-Capability: osgi.extender;filter:="(&(osgi.extender=osgi.compo
+ nent)(version>=1.4.0)(!(version>=2.0.0)))",osgi.ee;filter:="(&(osgi.e
+ e=JavaSE)(version=1.8))"
+Service-Component: OSGI-INF/com.adobe.aem.guides.wkndspa.react.core.fi
+ lters.ErrorFilter.xml,OSGI-INF/com.adobe.aem.guides.wkndspa.react.cor
+ e.filters.LoggingFilter.xml,OSGI-INF/com.adobe.aem.guides.wkndspa.rea
+ ct.core.listeners.SimpleResourceListener.xml,OSGI-INF/com.adobe.aem.g
+ uides.wkndspa.react.core.schedulers.SimpleScheduledTask.xml,OSGI-INF/
+ com.adobe.aem.guides.wkndspa.react.core.servlets.SimpleServlet.xml
+Sling-Model-Classes: com.adobe.aem.guides.wkndspa.react.core.models.Cu
+ stomButton,com.adobe.aem.guides.wkndspa.react.core.models.HelloWorldM
+ odel,com.adobe.aem.guides.wkndspa.react.core.models.NewBanner
+

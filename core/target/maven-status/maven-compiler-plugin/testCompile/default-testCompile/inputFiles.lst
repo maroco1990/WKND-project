@@ -1,0 +1,6 @@
+/Users/mariahalkhin/Documents/AEM/aem-guides-wknd-spa.react/core/src/test/java/com/adobe/aem/guides/wkndspa/react/core/filters/LoggingFilterTest.java
+/Users/mariahalkhin/Documents/AEM/aem-guides-wknd-spa.react/core/src/test/java/com/adobe/aem/guides/wkndspa/react/core/testcontext/AppAemContext.java
+/Users/mariahalkhin/Documents/AEM/aem-guides-wknd-spa.react/core/src/test/java/com/adobe/aem/guides/wkndspa/react/core/servlets/SimpleServletTest.java
+/Users/mariahalkhin/Documents/AEM/aem-guides-wknd-spa.react/core/src/test/java/com/adobe/aem/guides/wkndspa/react/core/schedulers/SimpleScheduledTaskTest.java
+/Users/mariahalkhin/Documents/AEM/aem-guides-wknd-spa.react/core/src/test/java/com/adobe/aem/guides/wkndspa/react/core/models/HelloWorldModelTest.java
+/Users/mariahalkhin/Documents/AEM/aem-guides-wknd-spa.react/core/src/test/java/com/adobe/aem/guides/wkndspa/react/core/listeners/SimpleResourceListenerTest.java

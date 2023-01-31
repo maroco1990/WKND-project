@@ -1,0 +1,13 @@
+/Users/mariahalkhin/Documents/AEM/aem-guides-wknd-spa.react/core/src/main/java/com/adobe/aem/guides/wkndspa/react/core/listeners/SimpleResourceListener.java
+/Users/mariahalkhin/Documents/AEM/aem-guides-wknd-spa.react/core/src/main/java/com/adobe/aem/guides/wkndspa/react/core/listeners/package-info.java
+/Users/mariahalkhin/Documents/AEM/aem-guides-wknd-spa.react/core/src/main/java/com/adobe/aem/guides/wkndspa/react/core/schedulers/package-info.java
+/Users/mariahalkhin/Documents/AEM/aem-guides-wknd-spa.react/core/src/main/java/com/adobe/aem/guides/wkndspa/react/core/servlets/SimpleServlet.java
+/Users/mariahalkhin/Documents/AEM/aem-guides-wknd-spa.react/core/src/main/java/com/adobe/aem/guides/wkndspa/react/core/filters/package-info.java
+/Users/mariahalkhin/Documents/AEM/aem-guides-wknd-spa.react/core/src/main/java/com/adobe/aem/guides/wkndspa/react/core/models/CustomButton.java
+/Users/mariahalkhin/Documents/AEM/aem-guides-wknd-spa.react/core/src/main/java/com/adobe/aem/guides/wkndspa/react/core/schedulers/SimpleScheduledTask.java
+/Users/mariahalkhin/Documents/AEM/aem-guides-wknd-spa.react/core/src/main/java/com/adobe/aem/guides/wkndspa/react/core/filters/ErrorFilter.java
+/Users/mariahalkhin/Documents/AEM/aem-guides-wknd-spa.react/core/src/main/java/com/adobe/aem/guides/wkndspa/react/core/models/package-info.java
+/Users/mariahalkhin/Documents/AEM/aem-guides-wknd-spa.react/core/src/main/java/com/adobe/aem/guides/wkndspa/react/core/filters/LoggingFilter.java
+/Users/mariahalkhin/Documents/AEM/aem-guides-wknd-spa.react/core/src/main/java/com/adobe/aem/guides/wkndspa/react/core/servlets/package-info.java
+/Users/mariahalkhin/Documents/AEM/aem-guides-wknd-spa.react/core/src/main/java/com/adobe/aem/guides/wkndspa/react/core/models/HelloWorldModel.java
+/Users/mariahalkhin/Documents/AEM/aem-guides-wknd-spa.react/core/src/main/java/com/adobe/aem/guides/wkndspa/react/core/models/NewBanner.java
