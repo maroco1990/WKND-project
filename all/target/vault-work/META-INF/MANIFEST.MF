@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 18
+Implementation-Title: WKND SPA React - All
+Implementation-Version: 1.0.0-SNAPSHOT
+Content-Package-Type: container
+Content-Package-Id: com.adobe.aem.guides.wkndspa.react:aem-guides-wknd-s
+ pa.react.all:1.0.0-SNAPSHOT
+Content-Package-Description: All content package for WKND SPA React
+Content-Package-Roots: /apps/wknd-spa-react-packages,/apps/wknd-spa-reac
+ t-vendor-packages
+
